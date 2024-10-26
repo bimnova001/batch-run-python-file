@@ -1,0 +1,12 @@
+@echo off
+
+your-python-path file-path
+
+pause
+
+
+
+Ex
+========================
+Python\Python310\python.exe main.py
+======================
